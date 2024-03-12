@@ -5,8 +5,12 @@ Car sales dataset till 2023 by its first owner upto 4 or above is shown in the d
 -To provide insights into overall sales performance,customer preferences,fuel efficiency,power impact by comprehensive analysis of a car sales analysis       
 -To identify best selling models,explore trends over the years
 
+### Tools used:
+MySQL Workbench 
+
 ### Approach Used:
-Exploratory Data Analysis (EDA):
+
+Exploratory Data Analysis (EDA): - Data cleaning,Data analysing,Data visualising in tabular form
 Exploratory data analysis is done to answer the following questions :
 
 ### Generic questions
