@@ -11,7 +11,7 @@ MySQL Workbench
 ### Approach Used:
 
 Exploratory Data Analysis (EDA): - Data cleaning,Data analysing,Data visualising in tabular form
-Exploratory data analysis is done to answer the following questions :
+Exploratory data analysis is done to answer the following business questions that may arise :
 
 ### Generic questions
 1)How many cars     
@@ -24,11 +24,11 @@ Exploratory data analysis is done to answer the following questions :
 8)Name cars b/w 2015 and 2023    
 
 ### Sales performance
-9)Top selling car name by price -BMW X4 M Sport X xDrive20d          
-10)Top selling car name by count - Maruti Swift Dzire VDI          
+9)Top selling car name by price          
+10)Top selling car name by count       
 11)Top 10 sales by year               
 12)If customers prefer for a joint family trip            
-13)If customers prefer for 2 family trip in 2019  -7 no.s                
+13)If customers prefer for 2 family trip in 2019            
 14)Fuel efficiency impact    
 15)Total Number of Vehicles having different fuel Type category and their Average Price.   
 16)Total Number of Vehicles having different Seat number category and their Average selling Price.   
@@ -45,9 +45,3 @@ Exploratory data analysis is done to answer the following questions :
 - The percent of cars with seats>7 are less also price is low. 80% of total car has 5 seats.
 - It also depends on the Engine Capacity. If the Engine CC is more, then Selling price would be more.
 - If the max_power(hp) is more, then Selling price would be more.
-
-
-
-
-
-
