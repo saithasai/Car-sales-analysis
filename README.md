@@ -1,4 +1,6 @@
 ## Car-sales-analysis
+<img src="https://t4.ftcdn.net/jpg/01/55/06/99/360_F_155069964_C3q5GrmnsX6WGFcoesSKyTGxNJRdTDOW.jpg" width="1000" height="500" />   
+
 Car sales dataset till 2023 by its first owner upto 4 or above is shown in the dataset
 
 ### Objective   
